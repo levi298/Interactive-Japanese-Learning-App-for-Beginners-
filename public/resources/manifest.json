@@ -1,0 +1,9 @@
+{
+  "packs": [
+    { "id": "hiragana-core", "file": "hiragana.json", "script": "hiragana", "status": "available" },
+    { "id": "katakana-core", "file": "katakana.json", "script": "katakana", "status": "available" },
+    { "id": "vocabulary-n5", "file": "future/vocabulary.json", "script": null, "status": "planned" },
+    { "id": "kanji-n5", "file": "future/kanji.json", "script": null, "status": "planned" },
+    { "id": "grammar-n5", "file": "future/grammar.json", "script": null, "status": "planned" }
+  ]
+}

@@ -1,0 +1,1255 @@
+{
+  "id": "katakana-core",
+  "script": "katakana",
+  "version": "1.0.0",
+  "characters": [
+    {
+      "id": "kata-a",
+      "script": "katakana",
+      "row": "vowel",
+      "char": "ア",
+      "romaji": "a",
+      "example": {
+        "word": "ありがとう",
+        "romaji": "arigatou",
+        "meaning": "thank you"
+      }
+    },
+    {
+      "id": "kata-i",
+      "script": "katakana",
+      "row": "vowel",
+      "char": "イ",
+      "romaji": "i",
+      "example": {
+        "word": "いぬ",
+        "romaji": "inu",
+        "meaning": "dog"
+      }
+    },
+    {
+      "id": "kata-u",
+      "script": "katakana",
+      "row": "vowel",
+      "char": "ウ",
+      "romaji": "u",
+      "example": {
+        "word": "うみ",
+        "romaji": "umi",
+        "meaning": "sea"
+      }
+    },
+    {
+      "id": "kata-e",
+      "script": "katakana",
+      "row": "vowel",
+      "char": "エ",
+      "romaji": "e",
+      "example": {
+        "word": "えき",
+        "romaji": "eki",
+        "meaning": "station"
+      }
+    },
+    {
+      "id": "kata-o",
+      "script": "katakana",
+      "row": "vowel",
+      "char": "オ",
+      "romaji": "o",
+      "example": {
+        "word": "おちゃ",
+        "romaji": "ocha",
+        "meaning": "tea"
+      }
+    },
+    {
+      "id": "kata-ka",
+      "script": "katakana",
+      "row": "k",
+      "char": "カ",
+      "romaji": "ka",
+      "example": {
+        "word": "かさ",
+        "romaji": "kasa",
+        "meaning": "umbrella"
+      }
+    },
+    {
+      "id": "kata-ki",
+      "script": "katakana",
+      "row": "k",
+      "char": "キ",
+      "romaji": "ki",
+      "example": {
+        "word": "きって",
+        "romaji": "kitte",
+        "meaning": "stamp"
+      }
+    },
+    {
+      "id": "kata-ku",
+      "script": "katakana",
+      "row": "k",
+      "char": "ク",
+      "romaji": "ku",
+      "example": {
+        "word": "くつ",
+        "romaji": "kutsu",
+        "meaning": "shoes"
+      }
+    },
+    {
+      "id": "kata-ke",
+      "script": "katakana",
+      "row": "k",
+      "char": "ケ",
+      "romaji": "ke",
+      "example": {
+        "word": "けいさつ",
+        "romaji": "keisatsu",
+        "meaning": "police"
+      }
+    },
+    {
+      "id": "kata-ko",
+      "script": "katakana",
+      "row": "k",
+      "char": "コ",
+      "romaji": "ko",
+      "example": {
+        "word": "こども",
+        "romaji": "kodomo",
+        "meaning": "child"
+      }
+    },
+    {
+      "id": "kata-sa",
+      "script": "katakana",
+      "row": "s",
+      "char": "サ",
+      "romaji": "sa",
+      "example": {
+        "word": "さかな",
+        "romaji": "sakana",
+        "meaning": "fish"
+      }
+    },
+    {
+      "id": "kata-shi",
+      "script": "katakana",
+      "row": "s",
+      "char": "シ",
+      "romaji": "shi",
+      "example": {
+        "word": "しんぶん",
+        "romaji": "shinbun",
+        "meaning": "newspaper"
+      }
+    },
+    {
+      "id": "kata-su",
+      "script": "katakana",
+      "row": "s",
+      "char": "ス",
+      "romaji": "su",
+      "example": {
+        "word": "すし",
+        "romaji": "sushi",
+        "meaning": "sushi"
+      }
+    },
+    {
+      "id": "kata-se",
+      "script": "katakana",
+      "row": "s",
+      "char": "セ",
+      "romaji": "se",
+      "example": {
+        "word": "せんせい",
+        "romaji": "sensei",
+        "meaning": "teacher"
+      }
+    },
+    {
+      "id": "kata-so",
+      "script": "katakana",
+      "row": "s",
+      "char": "ソ",
+      "romaji": "so",
+      "example": {
+        "word": "そら",
+        "romaji": "sora",
+        "meaning": "sky"
+      }
+    },
+    {
+      "id": "kata-ta",
+      "script": "katakana",
+      "row": "t",
+      "char": "タ",
+      "romaji": "ta",
+      "example": {
+        "word": "たまご",
+        "romaji": "tamago",
+        "meaning": "egg"
+      }
+    },
+    {
+      "id": "kata-chi",
+      "script": "katakana",
+      "row": "t",
+      "char": "チ",
+      "romaji": "chi",
+      "example": {
+        "word": "ちず",
+        "romaji": "chizu",
+        "meaning": "map"
+      }
+    },
+    {
+      "id": "kata-tsu",
+      "script": "katakana",
+      "row": "t",
+      "char": "ツ",
+      "romaji": "tsu",
+      "example": {
+        "word": "つき",
+        "romaji": "tsuki",
+        "meaning": "moon"
+      }
+    },
+    {
+      "id": "kata-te",
+      "script": "katakana",
+      "row": "t",
+      "char": "テ",
+      "romaji": "te",
+      "example": {
+        "word": "てがみ",
+        "romaji": "tegami",
+        "meaning": "letter"
+      }
+    },
+    {
+      "id": "kata-to",
+      "script": "katakana",
+      "row": "t",
+      "char": "ト",
+      "romaji": "to",
+      "example": {
+        "word": "とけい",
+        "romaji": "tokei",
+        "meaning": "clock"
+      }
+    },
+    {
+      "id": "kata-na",
+      "script": "katakana",
+      "row": "n",
+      "char": "ナ",
+      "romaji": "na",
+      "example": {
+        "word": "なつ",
+        "romaji": "natsu",
+        "meaning": "summer"
+      }
+    },
+    {
+      "id": "kata-ni",
+      "script": "katakana",
+      "row": "n",
+      "char": "ニ",
+      "romaji": "ni",
+      "example": {
+        "word": "にわ",
+        "romaji": "niwa",
+        "meaning": "garden"
+      }
+    },
+    {
+      "id": "kata-nu",
+      "script": "katakana",
+      "row": "n",
+      "char": "ヌ",
+      "romaji": "nu",
+      "example": {
+        "word": "ぬいぐるみ",
+        "romaji": "nuigurumi",
+        "meaning": "stuffed toy"
+      }
+    },
+    {
+      "id": "kata-ne",
+      "script": "katakana",
+      "row": "n",
+      "char": "ネ",
+      "romaji": "ne",
+      "example": {
+        "word": "ねこ",
+        "romaji": "neko",
+        "meaning": "cat"
+      }
+    },
+    {
+      "id": "kata-no",
+      "script": "katakana",
+      "row": "n",
+      "char": "ノ",
+      "romaji": "no",
+      "example": {
+        "word": "のみもの",
+        "romaji": "nomimono",
+        "meaning": "drink"
+      }
+    },
+    {
+      "id": "kata-ha",
+      "script": "katakana",
+      "row": "h",
+      "char": "ハ",
+      "romaji": "ha",
+      "example": {
+        "word": "はな",
+        "romaji": "hana",
+        "meaning": "flower"
+      }
+    },
+    {
+      "id": "kata-hi",
+      "script": "katakana",
+      "row": "h",
+      "char": "ヒ",
+      "romaji": "hi",
+      "example": {
+        "word": "ひこうき",
+        "romaji": "hikouki",
+        "meaning": "airplane"
+      }
+    },
+    {
+      "id": "kata-fu",
+      "script": "katakana",
+      "row": "h",
+      "char": "フ",
+      "romaji": "fu",
+      "example": {
+        "word": "ふゆ",
+        "romaji": "fuyu",
+        "meaning": "winter"
+      }
+    },
+    {
+      "id": "kata-he",
+      "script": "katakana",
+      "row": "h",
+      "char": "ヘ",
+      "romaji": "he",
+      "example": {
+        "word": "へや",
+        "romaji": "heya",
+        "meaning": "room"
+      }
+    },
+    {
+      "id": "kata-ho",
+      "script": "katakana",
+      "row": "h",
+      "char": "ホ",
+      "romaji": "ho",
+      "example": {
+        "word": "ほし",
+        "romaji": "hoshi",
+        "meaning": "star"
+      }
+    },
+    {
+      "id": "kata-ma",
+      "script": "katakana",
+      "row": "m",
+      "char": "マ",
+      "romaji": "ma",
+      "example": {
+        "word": "まど",
+        "romaji": "mado",
+        "meaning": "window"
+      }
+    },
+    {
+      "id": "kata-mi",
+      "script": "katakana",
+      "row": "m",
+      "char": "ミ",
+      "romaji": "mi",
+      "example": {
+        "word": "みず",
+        "romaji": "mizu",
+        "meaning": "water"
+      }
+    },
+    {
+      "id": "kata-mu",
+      "script": "katakana",
+      "row": "m",
+      "char": "ム",
+      "romaji": "mu",
+      "example": {
+        "word": "むし",
+        "romaji": "mushi",
+        "meaning": "insect"
+      }
+    },
+    {
+      "id": "kata-me",
+      "script": "katakana",
+      "row": "m",
+      "char": "メ",
+      "romaji": "me",
+      "example": {
+        "word": "めがね",
+        "romaji": "megane",
+        "meaning": "glasses"
+      }
+    },
+    {
+      "id": "kata-mo",
+      "script": "katakana",
+      "row": "m",
+      "char": "モ",
+      "romaji": "mo",
+      "example": {
+        "word": "もり",
+        "romaji": "mori",
+        "meaning": "forest"
+      }
+    },
+    {
+      "id": "kata-ya",
+      "script": "katakana",
+      "row": "y",
+      "char": "ヤ",
+      "romaji": "ya",
+      "example": {
+        "word": "やま",
+        "romaji": "yama",
+        "meaning": "mountain"
+      }
+    },
+    {
+      "id": "kata-yu",
+      "script": "katakana",
+      "row": "y",
+      "char": "ユ",
+      "romaji": "yu",
+      "example": {
+        "word": "ゆき",
+        "romaji": "yuki",
+        "meaning": "snow"
+      }
+    },
+    {
+      "id": "kata-yo",
+      "script": "katakana",
+      "row": "y",
+      "char": "ヨ",
+      "romaji": "yo",
+      "example": {
+        "word": "よる",
+        "romaji": "yoru",
+        "meaning": "night"
+      }
+    },
+    {
+      "id": "kata-ra",
+      "script": "katakana",
+      "row": "r",
+      "char": "ラ",
+      "romaji": "ra",
+      "example": {
+        "word": "らいねん",
+        "romaji": "rainen",
+        "meaning": "next year"
+      }
+    },
+    {
+      "id": "kata-ri",
+      "script": "katakana",
+      "row": "r",
+      "char": "リ",
+      "romaji": "ri",
+      "example": {
+        "word": "りんご",
+        "romaji": "ringo",
+        "meaning": "apple"
+      }
+    },
+    {
+      "id": "kata-ru",
+      "script": "katakana",
+      "row": "r",
+      "char": "ル",
+      "romaji": "ru",
+      "example": {
+        "word": "るす",
+        "romaji": "rusu",
+        "meaning": "absence"
+      }
+    },
+    {
+      "id": "kata-re",
+      "script": "katakana",
+      "row": "r",
+      "char": "レ",
+      "romaji": "re",
+      "example": {
+        "word": "れいぞうこ",
+        "romaji": "reizouko",
+        "meaning": "refrigerator"
+      }
+    },
+    {
+      "id": "kata-ro",
+      "script": "katakana",
+      "row": "r",
+      "char": "ロ",
+      "romaji": "ro",
+      "example": {
+        "word": "ろうそく",
+        "romaji": "tousoku",
+        "meaning": "candle"
+      }
+    },
+    {
+      "id": "kata-wa",
+      "script": "katakana",
+      "row": "w",
+      "char": "ワ",
+      "romaji": "wa",
+      "example": {
+        "word": "わたし",
+        "romaji": "watashi",
+        "meaning": "I / me"
+      }
+    },
+    {
+      "id": "kata-wo",
+      "script": "katakana",
+      "row": "w",
+      "char": "ヲ",
+      "romaji": "wo",
+      "example": {
+        "word": "ほんをよむ",
+        "romaji": "hon wo yomu",
+        "meaning": "read a book"
+      }
+    },
+    {
+      "id": "kata-n",
+      "script": "katakana",
+      "row": "w",
+      "char": "ン",
+      "romaji": "n",
+      "example": {
+        "word": "ほん",
+        "romaji": "hon",
+        "meaning": "book"
+      }
+    },
+    {
+      "id": "kata-ga",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ガ",
+      "romaji": "ga",
+      "example": {
+        "word": "がっこう",
+        "romaji": "gakkou",
+        "meaning": "school"
+      }
+    },
+    {
+      "id": "kata-gi",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ギ",
+      "romaji": "gi",
+      "example": {
+        "word": "ぎんこう",
+        "romaji": "ginkou",
+        "meaning": "bank"
+      }
+    },
+    {
+      "id": "kata-gu",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "グ",
+      "romaji": "gu",
+      "example": {
+        "word": "ぐあい",
+        "romaji": "guai",
+        "meaning": "condition"
+      }
+    },
+    {
+      "id": "kata-ge",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ゲ",
+      "romaji": "ge",
+      "example": {
+        "word": "げんき",
+        "romaji": "genki",
+        "meaning": "energetic"
+      }
+    },
+    {
+      "id": "kata-go",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ゴ",
+      "romaji": "go",
+      "example": {
+        "word": "ごはん",
+        "romaji": "gohan",
+        "meaning": "rice/meal"
+      }
+    },
+    {
+      "id": "kata-za",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ザ",
+      "romaji": "za",
+      "example": {
+        "word": "ざっし",
+        "romaji": "zasshi",
+        "meaning": "magazine"
+      }
+    },
+    {
+      "id": "kata-ji",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ジ",
+      "romaji": "ji",
+      "example": {
+        "word": "じかん",
+        "romaji": "jikan",
+        "meaning": "time"
+      }
+    },
+    {
+      "id": "kata-zu",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ズ",
+      "romaji": "zu",
+      "example": {
+        "word": "ずが",
+        "romaji": "zuga",
+        "meaning": "drawing"
+      }
+    },
+    {
+      "id": "kata-ze",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ゼ",
+      "romaji": "ze",
+      "example": {
+        "word": "ぜんぶ",
+        "romaji": "zenbu",
+        "meaning": "all"
+      }
+    },
+    {
+      "id": "kata-zo",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ゾ",
+      "romaji": "zo",
+      "example": {
+        "word": "ぞう",
+        "romaji": "zou",
+        "meaning": "elephant"
+      }
+    },
+    {
+      "id": "kata-da",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ダ",
+      "romaji": "da",
+      "example": {
+        "word": "だいがく",
+        "romaji": "daigaku",
+        "meaning": "university"
+      }
+    },
+    {
+      "id": "kata-dji",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ヂ",
+      "romaji": "dji",
+      "example": {
+        "word": "はなぢ",
+        "romaji": "hanaji",
+        "meaning": "nosebleed"
+      }
+    },
+    {
+      "id": "kata-dzu",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ヅ",
+      "romaji": "dzu",
+      "example": {
+        "word": "つづく",
+        "romaji": "tsuzuku",
+        "meaning": "to continue"
+      }
+    },
+    {
+      "id": "kata-de",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "デ",
+      "romaji": "de",
+      "example": {
+        "word": "でんわ",
+        "romaji": "denwa",
+        "meaning": "telephone"
+      }
+    },
+    {
+      "id": "kata-do",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ド",
+      "romaji": "do",
+      "example": {
+        "word": "どあ",
+        "romaji": "doa",
+        "meaning": "door"
+      }
+    },
+    {
+      "id": "kata-ba",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "バ",
+      "romaji": "ba",
+      "example": {
+        "word": "ばしょ",
+        "romaji": "basho",
+        "meaning": "place"
+      }
+    },
+    {
+      "id": "kata-bi",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ビ",
+      "romaji": "bi",
+      "example": {
+        "word": "びょういん",
+        "romaji": "byouin",
+        "meaning": "hospital"
+      }
+    },
+    {
+      "id": "kata-bu",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ブ",
+      "romaji": "bu",
+      "example": {
+        "word": "ぶた",
+        "romaji": "buta",
+        "meaning": "pig"
+      }
+    },
+    {
+      "id": "kata-be",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ベ",
+      "romaji": "be",
+      "example": {
+        "word": "べんきょう",
+        "romaji": "benkyou",
+        "meaning": "study"
+      }
+    },
+    {
+      "id": "kata-bo",
+      "script": "katakana",
+      "row": "dakuten",
+      "char": "ボ",
+      "romaji": "bo",
+      "example": {
+        "word": "ぼうし",
+        "romaji": "boushi",
+        "meaning": "hat"
+      }
+    },
+    {
+      "id": "kata-pa",
+      "script": "katakana",
+      "row": "handakuten",
+      "char": "パ",
+      "romaji": "pa",
+      "example": {
+        "word": "ぱん",
+        "romaji": "pan",
+        "meaning": "bread"
+      }
+    },
+    {
+      "id": "kata-pi",
+      "script": "katakana",
+      "row": "handakuten",
+      "char": "ピ",
+      "romaji": "pi",
+      "example": {
+        "word": "ぴあの",
+        "romaji": "piano",
+        "meaning": "piano"
+      }
+    },
+    {
+      "id": "kata-pu",
+      "script": "katakana",
+      "row": "handakuten",
+      "char": "プ",
+      "romaji": "pu",
+      "example": {
+        "word": "ぷ—る",
+        "romaji": "puuru",
+        "meaning": "pool"
+      }
+    },
+    {
+      "id": "kata-pe",
+      "script": "katakana",
+      "row": "handakuten",
+      "char": "ペ",
+      "romaji": "pe",
+      "example": {
+        "word": "ぺん",
+        "romaji": "pen",
+        "meaning": "pen"
+      }
+    },
+    {
+      "id": "kata-po",
+      "script": "katakana",
+      "row": "handakuten",
+      "char": "ポ",
+      "romaji": "po",
+      "example": {
+        "word": "ぽけっと",
+        "romaji": "poketto",
+        "meaning": "pocket"
+      }
+    },
+    {
+      "id": "kata-kya",
+      "script": "katakana",
+      "row": "combo",
+      "char": "キャ",
+      "romaji": "kya",
+      "example": {
+        "word": "きゃく",
+        "romaji": "kyaku",
+        "meaning": "guest"
+      }
+    },
+    {
+      "id": "kata-kyu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "キュ",
+      "romaji": "kyu",
+      "example": {
+        "word": "きゅうり",
+        "romaji": "kyuuri",
+        "meaning": "cucumber"
+      }
+    },
+    {
+      "id": "kata-kyo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "キョ",
+      "romaji": "kyo",
+      "example": {
+        "word": "きょう",
+        "romaji": "kyou",
+        "meaning": "today"
+      }
+    },
+    {
+      "id": "kata-sha",
+      "script": "katakana",
+      "row": "combo",
+      "char": "シャ",
+      "romaji": "sha",
+      "example": {
+        "word": "しゃしん",
+        "romaji": "shashin",
+        "meaning": "photo"
+      }
+    },
+    {
+      "id": "kata-shu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "シュ",
+      "romaji": "shu",
+      "example": {
+        "word": "しゅくだい",
+        "romaji": "shukudai",
+        "meaning": "homework"
+      }
+    },
+    {
+      "id": "kata-sho",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ショ",
+      "romaji": "sho",
+      "example": {
+        "word": "しょうがっこう",
+        "romaji": "shougakkou",
+        "meaning": "elementary school"
+      }
+    },
+    {
+      "id": "kata-cha",
+      "script": "katakana",
+      "row": "combo",
+      "char": "チャ",
+      "romaji": "cha",
+      "example": {
+        "word": "おちゃ",
+        "romaji": "ocha",
+        "meaning": "tea"
+      }
+    },
+    {
+      "id": "kata-chu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "チュ",
+      "romaji": "chu",
+      "example": {
+        "word": "ちゅうしゃ",
+        "romaji": "chuusha",
+        "meaning": "injection/parking"
+      }
+    },
+    {
+      "id": "kata-cho",
+      "script": "katakana",
+      "row": "combo",
+      "char": "チョ",
+      "romaji": "cho",
+      "example": {
+        "word": "ちょうちょ",
+        "romaji": "chouchou",
+        "meaning": "butterfly"
+      }
+    },
+    {
+      "id": "kata-nya",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ニャ",
+      "romaji": "nya",
+      "example": {
+        "word": "こんにゃく",
+        "romaji": "konnyaku",
+        "meaning": "konjac"
+      }
+    },
+    {
+      "id": "kata-nyu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ニュ",
+      "romaji": "nyu",
+      "example": {
+        "word": "にゅういん",
+        "romaji": "nyuuin",
+        "meaning": "hospitalization"
+      }
+    },
+    {
+      "id": "kata-nyo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ニョ",
+      "romaji": "nyo",
+      "example": {
+        "word": "にょう",
+        "romaji": "nyou",
+        "meaning": "urine"
+      }
+    },
+    {
+      "id": "kata-hya",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ヒャ",
+      "romaji": "hya",
+      "example": {
+        "word": "ひゃく",
+        "romaji": "hyaku",
+        "meaning": "hundred"
+      }
+    },
+    {
+      "id": "kata-hyu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ヒュ",
+      "romaji": "hyu",
+      "example": {
+        "word": "ひゅうが",
+        "romaji": "hyuuga",
+        "meaning": "(place name) Hyuga"
+      }
+    },
+    {
+      "id": "kata-hyo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ヒョ",
+      "romaji": "hyo",
+      "example": {
+        "word": "ひょう",
+        "romaji": "hyou",
+        "meaning": "leopard/chart"
+      }
+    },
+    {
+      "id": "kata-mya",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ミャ",
+      "romaji": "mya",
+      "example": {
+        "word": "みゃく",
+        "romaji": "myaku",
+        "meaning": "pulse"
+      }
+    },
+    {
+      "id": "kata-myu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ミュ",
+      "romaji": "myu",
+      "example": {
+        "word": "みゅーじっく",
+        "romaji": "myuujikku",
+        "meaning": "music"
+      }
+    },
+    {
+      "id": "kata-myo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ミョ",
+      "romaji": "myo",
+      "example": {
+        "word": "みょうじ",
+        "romaji": "myouji",
+        "meaning": "surname"
+      }
+    },
+    {
+      "id": "kata-rya",
+      "script": "katakana",
+      "row": "combo",
+      "char": "リャ",
+      "romaji": "rya",
+      "example": {
+        "word": "りゃくご",
+        "romaji": "ryakugo",
+        "meaning": "abbreviation"
+      }
+    },
+    {
+      "id": "kata-ryu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "リュ",
+      "romaji": "ryu",
+      "example": {
+        "word": "りゅう",
+        "romaji": "ryuu",
+        "meaning": "dragon"
+      }
+    },
+    {
+      "id": "kata-ryo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "リョ",
+      "romaji": "ryo",
+      "example": {
+        "word": "りょうり",
+        "romaji": "ryouri",
+        "meaning": "cooking"
+      }
+    },
+    {
+      "id": "kata-gya",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ギャ",
+      "romaji": "gya",
+      "example": {
+        "word": "ぎゃく",
+        "romaji": "gyaku",
+        "meaning": "opposite"
+      }
+    },
+    {
+      "id": "kata-gyu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ギュ",
+      "romaji": "gyu",
+      "example": {
+        "word": "ぎゅうにゅう",
+        "romaji": "gyuunyuu",
+        "meaning": "milk"
+      }
+    },
+    {
+      "id": "kata-gyo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ギョ",
+      "romaji": "gyo",
+      "example": {
+        "word": "ぎょうざ",
+        "romaji": "gyouza",
+        "meaning": "dumpling"
+      }
+    },
+    {
+      "id": "kata-ja",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ジャ",
+      "romaji": "ja",
+      "example": {
+        "word": "じゃま",
+        "romaji": "jama",
+        "meaning": "hindrance"
+      }
+    },
+    {
+      "id": "kata-ju",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ジュ",
+      "romaji": "ju",
+      "example": {
+        "word": "じゅぎょう",
+        "romaji": "jugyou",
+        "meaning": "class"
+      }
+    },
+    {
+      "id": "kata-jo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ジョ",
+      "romaji": "jo",
+      "example": {
+        "word": "じょうず",
+        "romaji": "jouzu",
+        "meaning": "skillful"
+      }
+    },
+    {
+      "id": "kata-bya",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ビャ",
+      "romaji": "bya",
+      "example": {
+        "word": "さんびゃく",
+        "romaji": "sanbyaku",
+        "meaning": "three hundred"
+      }
+    },
+    {
+      "id": "kata-byu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ビュ",
+      "romaji": "byu",
+      "example": {
+        "word": "びゅっふぇ",
+        "romaji": "byuffe",
+        "meaning": "buffet"
+      }
+    },
+    {
+      "id": "kata-byo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ビョ",
+      "romaji": "byo",
+      "example": {
+        "word": "びょうき",
+        "romaji": "byouki",
+        "meaning": "illness"
+      }
+    },
+    {
+      "id": "kata-pya",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ピャ",
+      "romaji": "pya",
+      "example": {
+        "word": "ぴゃく",
+        "romaji": "pyaku",
+        "meaning": "(rare)"
+      }
+    },
+    {
+      "id": "kata-pyu",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ピュ",
+      "romaji": "pyu",
+      "example": {
+        "word": "ぴゅう",
+        "romaji": "pyuu",
+        "meaning": "(whoosh sound)"
+      }
+    },
+    {
+      "id": "kata-pyo",
+      "script": "katakana",
+      "row": "combo",
+      "char": "ピョ",
+      "romaji": "pyo",
+      "example": {
+        "word": "ぴょんぴょん",
+        "romaji": "pyonpyon",
+        "meaning": "hop hop"
+      }
+    }
+  ]
+}

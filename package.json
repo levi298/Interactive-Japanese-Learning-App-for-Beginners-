@@ -1,0 +1,61 @@
+{
+  "name": "kana",
+  "productName": "Kana",
+  "version": "1.0.0",
+  "description": "A premium offline desktop app for learning Japanese Hiragana & Katakana",
+  "author": "Your Name",
+  "license": "MIT",
+  "main": "dist-electron/main.js",
+  "scripts": {
+    "start": "npm run dev:electron",
+    "dev": "vite",
+    "dev:electron": "concurrently -k \"vite\" \"npm:electron:watch\"",
+    "electron:watch": "tsc-watch -p electron/tsconfig.json --onSuccess \"electron .\"",
+    "build": "tsc -b && vite build",
+    "build:electron": "tsc -p electron/tsconfig.json",
+    "package": "npm run build && npm run build:electron && electron-builder",
+    "package:win": "npm run build && npm run build:electron && electron-builder --win",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.18",
+    "@fontsource/zen-maru-gothic": "^5.0.9",
+    "@fontsource/jetbrains-mono": "^5.0.20",
+    "framer-motion": "^11.2.10",
+    "lucide-react": "^0.383.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "concurrently": "^8.2.2",
+    "electron": "^30.0.9",
+    "electron-builder": "^24.13.3",
+    "tsc-watch": "^6.2.0",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  },
+  "build": {
+    "appId": "com.yourname.kana",
+    "productName": "Kana",
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "public/**/*"
+    ],
+    "directories": {
+      "output": "release"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "public/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  }
+}
