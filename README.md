@@ -1,3 +1,7 @@
+<img width="1774" height="887" alt="ChatGPT Image Jul 8, 2026, 08_43_08 PM" src="https://github.com/user-attachments/assets/b55eae28-3387-4ae5-b819-7bf63149e059" />
+<img width="2808" height="1536" alt="gemkana3" src="https://github.com/user-attachments/assets/e9b3e0d8-58e1-4e9c-b76b-fff4b645bc34" />
+<img width="2612" height="1632" alt="gemkana1" src="https://github.com/user-attachments/assets/871b2014-62c5-4546-9f7e-349beffd3239" />
+<img width="2808" height="1536" alt="gemkana2" src="https://github.com/user-attachments/assets/0366d497-25fb-44f3-8497-50fe402f0e18" />
 # Kana — Learn Japanese, Offline, on Desktop
 
 A premium, fully offline Windows desktop application for learning Hiragana
